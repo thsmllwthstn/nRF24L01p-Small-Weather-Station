@@ -29,7 +29,7 @@ You can buy the Small Weather Station in the link below:
 Or you can build your own station, you can find the schematics and source code in the link below:
 https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/station/station_basic
 
-In the link below you will find an easy example code written for Arduino and Python 3 for receiving the data from the station:
+In the link below you will find an easy example code written for Arduino and Python 3 for receiving data from the station:
 https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/receiver
 
 Simply copy and paste this code and you are ready to retreive data from the station!
