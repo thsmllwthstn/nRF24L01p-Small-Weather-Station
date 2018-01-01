@@ -29,7 +29,7 @@ nRF24L01P my_nrf;
 adc       my_adc;
 dht       my_humidity;
 
-//Variables
+//Variables 
 uint8_t TRANSFER_SIZE;
 uint8_t TX_DATA[10];
 uint8_t RX_DATA[10];
