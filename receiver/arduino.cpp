@@ -1,5 +1,6 @@
 /* 
- *  Small Weather Station
+ * Small Weather Station
+ * https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station
  * 
  * Simply power the Small Weather Station with 3V3 - 12V and it begins
  * sending data.
