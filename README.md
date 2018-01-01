@@ -22,9 +22,14 @@ To achieve this the station uses three different sensors:
 
 
 #### What do you need?
-You will need your own nRF24L01+ in order to receive the data.
+You will need a Small Weather Station and your own nRF24L01+ receiver.
+You can buy the Small Weather Station in the link below:
+--ebay link
 
-In the link below you will find an easy example code written for Arduino and Python 3.
+Or you can build your own station, you can find the schematics and source code in the link below:
+https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/station/station_basic
+
+In the link below you will find an easy example code written for Arduino and Python 3 for receiving the data from the station:
 https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/receiver
 
 Simply copy and paste this code and you are ready to retreive data from the station!
@@ -55,10 +60,10 @@ The station will now send the standard readings with the added DS18B20 sensor!
 
 
 
-#### H4 Programmable Small Weather Station?
+#### Programmable Small Weather Station?
 Do you want full access to all the settings or use the station to control any other 3V3 circuit?
 This is possible with a USBASP programmer and the programmable small weather station: 
---link
+--ebay link
 
-You can find the source code and schematics in the link below:
+Or you can build your own programmable station, you can find the schematics and source code in the link below:
 https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/station/station_basic_with_programmer
