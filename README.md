@@ -10,13 +10,19 @@ Start a nRF24L01+ sensor network or expand your existing projects with this Smal
 This comes with easy to use example codes for Arduino and Raspberry Pi!
 
 This station measures and sends:
+
  -Temperature
+ 
  -Humidity
+ 
  -Lightintensity
 
 To achieve this the station uses three different sensors:
+
  -DS18B20: Digital temperature sensor
+ 
  -DHT11: Basic temperature and humidity sensor
+ 
  -LDR: Measures lightintensity
 
 
@@ -24,6 +30,7 @@ To achieve this the station uses three different sensors:
 ### What do you need?
 You will need a Small Weather Station and your own nRF24L01+ receiver.
 You can buy the Small Weather Station in the link below:
+
 --ebay link
 
 Or you can build your own station, you can find the schematics and source code in the link below:
@@ -38,15 +45,22 @@ Simply copy and paste this code and you are ready to retreive data from the stat
 
 ### How does it work?
 Power the Vin pin with 3V3 - 15V.
+
 As soon as the onboard LED blinks 2 times in a row the station starts sending the data.
+
 Use the example code to receive the data.
+
 It sends the data every 5 seconds.
 
 You can change the stations settings by pressing the button. The LED will go ON. The station is now in receiving mode.
 There are 4 settings you can change:
+
  -Timer (rate at which the station sends the data in seconds)
+ 
  -Tranceive address
+ 
  -Receive address
+ 
  -Frequency
 
 The example code explains in detail how to change these settings.
@@ -63,6 +77,7 @@ The station will now send the standard readings with the added DS18B20 sensor!
 ### Programmable Small Weather Station?
 Do you want full access to all the settings or use the station to control any other 3V3 circuit?
 This is possible with a USBASP programmer and the programmable small weather station: 
+
 --ebay link
 
 Or you can build your own programmable station, you can find the schematics and source code in the link below:
