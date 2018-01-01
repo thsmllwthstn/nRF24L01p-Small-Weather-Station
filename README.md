@@ -7,7 +7,7 @@ Vcc: 3.3V - 15V
 
 #### Description
 Start a nRF24L01+ sensor network or expand your existing projects with this Small Weather Station!
-Easy to use example codes for Arduino and Raspberry Pi!
+This comes with easy to use example codes for Arduino and Raspberry Pi!
 
 This station measures and sends:
  -Temperature
