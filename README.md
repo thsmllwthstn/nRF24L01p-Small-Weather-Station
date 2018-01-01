@@ -4,6 +4,7 @@ For any nRF24L01+ project!
 
 Vcc: 3.3V - 15V
 
+
 #### Description
 Start a nRF24L01+ sensor network or expand your existing projects with this Small Weather Station!
 Easy to use example codes for Arduino and Raspberry Pi!
@@ -19,6 +20,7 @@ To achieve this the station uses three different sensors:
  -LDR: Measures lightintensity
 
 
+
 #### What do you need?
 You will need your own nRF24L01+ in order to receive the data.
 
@@ -26,6 +28,7 @@ In the link below you will find an easy example code written for Arduino and Pyt
 https://github.com/thsmllwthstn/nRF24L01p-Small-Weather-Station/tree/master/receiver
 
 Simply copy and paste this code and you are ready to retreive data from the station!
+
 
 
 #### How does it work?
@@ -49,6 +52,7 @@ The station comes with 3 additional pins for connecting a waterproof DS18B20 tem
 Solder the Vcc, data and ground pins from the temperature sensor to the 3V3, data and GND pin from the station.
 Once connected the station detects the presence of the added DS18B20 sensor.
 The station will now send the standard readings with the added DS18B20 sensor!
+
 
 
 #### H4 Programmable Small Weather Station?
